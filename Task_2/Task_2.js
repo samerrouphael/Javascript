@@ -19,3 +19,5 @@ const z = x+y;
 
 var user ="samer"
 console.log(user);
+var user2="rouphael";
+console.log(user2)
