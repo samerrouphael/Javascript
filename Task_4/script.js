@@ -9,3 +9,7 @@ console.log(valuess[0])
 console.log(valuess[1])
 console.log(valuess[2])
 
+let valuesss=['samer','1986'];
+console.log(valuesss[0])
+console.log(valuesss[1])
+
