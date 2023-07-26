@@ -1,12 +1,11 @@
 let values= [1,2,3];
-console.log(values0)
-console.log(values1)
-console.log(values2)
+console.log(values[0])
+console.log(values[1])
+console.log(values[2])
 
 
-let valuess=newArray(samer,hanna,rouphael)
-console.log(valuess0)
-console.log(vlauess1)
-console.log(valuess2)
+let valuess=new Array('samer','hanna','rouphael');
+console.log(valuess[0])
+console.log(valuess[1])
+console.log(valuess[2])
 
-Array1=
