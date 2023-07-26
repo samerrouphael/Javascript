@@ -1,0 +1,38 @@
+img {
+    height: 30px;
+    width: 30px;
+}
+
+.box {
+    width: 350px;
+    border: 65px solid rgb(84, 84, 241);
+    padding: 20px;
+    margin: 20px;
+}
+
+p {
+    color: grey;
+}
+
+.b1 button {
+    border-radius: 50%;
+}
+
+.b1 button {
+    margin-left: 20px;
+    height: 45px;
+    width: 45px;
+    margin-bottom: 30px;
+}
+
+.submit button {
+    border-radius: 30%;
+}
+
+.submit button {
+    height: 50px;
+    width: 350px;
+    background-color: blue;
+    color: white;
+    font-size: larger;
+}
