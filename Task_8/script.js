@@ -1,5 +1,4 @@
-let i=0;
-while (i<10){
-    i=i+1;
-if(i>8){console.log(i)}
+Math.random();
+while (Math.random<10){
+if(Math.random>8){console.log(Math.random)}
 }
